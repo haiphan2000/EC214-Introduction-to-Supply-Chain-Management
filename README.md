@@ -11,20 +11,19 @@ The primary objective of these 2 case studies is to analyze the supply chain str
 
 **1. Trung Nguyen**
 <p align="center">
-  <img src="https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Trung-Nguyen.png" width="200" alt="Description of the image">
+  <img src="https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Trung-Nguyen.png" width="150" alt="Description of the image">
 </p>
-
 - 
 
 **2. Zara**
 <p align="center">
-  <img src="https://logomakerr.ai/blog/wp-content/uploads/2022/08/2019-to-Present-Zara-logo-design-1024x538.jpg" width="200" alt="Description of the image">
+  <img src="https://logomakerr.ai/blog/wp-content/uploads/2022/08/2019-to-Present-Zara-logo-design-1024x538.jpg" width="250" alt="Description of the image">
 </p>
 
 - **Introduction to the Business:** summarize the _history_, _visionary_ approach, _mission_, diverse _product line_, efficient _distribution channels_, and _business + revenue model_ — all of which collectively contribute to its unique business model of fast-fashion industry.
 - **Current State Assessment:** provide a comprehensive understanding of its current standing - _Market Analysis_ (gender, age, geography), _Competitor Analysis_ (H&M, Uniqlo, Zara) and _SWOT Analysis_.
 - **Supply Chain Analysis:**  a detailed examination of the processes, activities, and structure of supply chain - _Supply Chain Model_ emphasizing vertical integration strategies, _Core Activities_ implementated of the SCOR model, _Measuring Performance_.
-- **Conclusion:** Zara's supply chain is _highly responsive_ and _super-efficient_.
+- **Conclusion:** Zara's supply chain is `highly responsive` and `super-efficient`.
 
 ## Contributing
 We encourage contributions and insights from students, researchers, and professionals interested in supply chain management. Feel free to raise issues, suggest improvements, or contribute your own analyses to enrich the repository.
