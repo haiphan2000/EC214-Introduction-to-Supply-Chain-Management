@@ -7,9 +7,16 @@ The primary objective of these 2 case studies is to analyze the supply chain str
 ## Contents
 - **Case Study Documents:** Find detailed analyses, insights, and comparisons in the form of documents. These documents cover various aspects, including supply chain processes, logistics, inventory management, and sustainability practices.
 - **Presentation Slides:** Access presentation slides that accompany the case study, providing an overview of key findings and facilitating discussions in the classroom setting.
-- **Data and Visualizations:** Explore datasets and visualizations related to the supply chain performance metrics of Trung Nguyen and Zara. These resources enhance the quantitative aspect of the analysis.
+- **Data and Visualizations:** Explore datasets and visualizations related to the supply chain performance metrics of **Trung Nguyen** and **Zara**. These resources enhance the quantitative aspect of the analysis.
+
+**1. Trung Nguyen**
+![image](https://github.com/haiphan2000/EC214-Introduction-to-Supply-Chain-Management/assets/45815546/9aaf17d7-d5c0-4620-a354-ecdaa9cd3a65)
+
+- 
 
 **2. Zara**
+![image](https://github.com/haiphan2000/EC214-Introduction-to-Supply-Chain-Management/assets/45815546/8541e8b2-b9fd-4c3a-af07-9f87e774eb3f)
+
 - **Introduction to the Business:** summarize the _history_, _visionary_ approach, _mission_, diverse _product line_, efficient _distribution channels_, and _business + revenue model_ — all of which collectively contribute to its unique business model of fast-fashion industry.
 - **Current State Assessment:** provide a comprehensive understanding of its current standing - _Market Analysis_ (gender, age, geography), _Competitor Analysis_ (H&M, Uniqlo, Zara) and _SWOT Analysis_.
 - **Supply Chain Analysis:**  a detailed examination of the processes, activities, and structure of supply chain - _Supply Chain Model_ emphasizing vertical integration strategies, _Core Activities_ implementated of the SCOR model, _Measuring Performance_.
