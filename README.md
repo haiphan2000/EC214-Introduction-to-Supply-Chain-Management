@@ -9,9 +9,9 @@ The primary objective of these 2 case studies is to analyze the supply chain str
 - **Presentation Slides:** Access presentation slides that accompany the case study, providing an overview of key findings and facilitating discussions in the classroom setting.
 - **Data and Visualizations:** Explore datasets and visualizations related to the supply chain performance metrics of Trung Nguyen and Zara. These resources enhance the quantitative aspect of the analysis.
 
-**2. Zara******
+**2. Zara**
 - **Introduction to the Business:** summarize the _history_, _visionary_ approach, _mission_, diverse _product line_, efficient _distribution channels_, and _business + revenue model_ — all of which collectively contribute to its unique business model of fast-fashion industry.
-- **Current State Assessment:** provide a comprehensive understanding of its current standing - _Market Analysis_ (gender, age, geography), _Competitor Analysis _(H&M, Uniqlo, Zara) and _SWOT Analysis_.
+- **Current State Assessment:** provide a comprehensive understanding of its current standing - _Market Analysis_ (gender, age, geography), _Competitor Analysis_ (H&M, Uniqlo, Zara) and _SWOT Analysis_.
 - **Supply Chain Analysis:**  a detailed examination of the processes, activities, and structure of supply chain - _Supply Chain Model_ emphasizing vertical integration strategies, _Core Activities_ implementated of the SCOR model, _Measuring Performance_.
 - **Conclusion:** Zara's supply chain is _highly responsive_ and _super-efficient_.
 
