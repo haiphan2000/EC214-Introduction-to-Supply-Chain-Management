@@ -13,9 +13,26 @@ The primary objective of these 2 case studies is to analyze the supply chain str
 <p align="center">
   <img src="https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Trung-Nguyen.png" width="150" alt="Description of the image">
 </p>
-- 
-![image]()
 
+- **Introduction to the Business:** summarize the _history_, _visionary_ approach and _mission_— all of which collectively contribute to its unique business model of coffee industry.
+<p align="center">
+  <img src="https://github.com/haiphan2000/EC214-Introduction-to-Supply-Chain-Management/assets/45815546/367498d7-5d7b-43c0-80c0-223ab2d74871" width="450">
+  <img src="https://github.com/haiphan2000/EC214-Introduction-to-Supply-Chain-Management/assets/45815546/e3440635-0b8d-4aed-b8d4-3744e22fcefc" width="450">
+</p>
+
+- **Supply Chain Planning:** the first process in SCOR framework - _demand forecasting_, _product pricing_, and _inventory management_.
+<p align="center">
+  <img src="https://github.com/haiphan2000/EC214-Introduction-to-Supply-Chain-Management/assets/45815546/adfdbc13-565b-4aa1-993d-ac225829fd83" width="300">
+  <img src="https://github.com/haiphan2000/EC214-Introduction-to-Supply-Chain-Management/assets/45815546/479ba05f-435a-47b4-9842-c1ea4d61d6da" width="300">
+  <img src="https://github.com/haiphan2000/EC214-Introduction-to-Supply-Chain-Management/assets/45815546/d63ef7b3-1102-4896-9897-996f109eb5ea" width="300">
+</p>
+
+- **Supply Chain Sourcing:** the second process in SCOR framework - _purchasing_, _consumption management_, _vendor selection_ and _credit & collections_.
+<p align="center">
+  <img src="https://github.com/haiphan2000/EC214-Introduction-to-Supply-Chain-Management/assets/45815546/6b33b65d-8e85-4f11-87c5-f72893e0d0f3" width="300">
+  <img src="https://github.com/haiphan2000/EC214-Introduction-to-Supply-Chain-Management/assets/45815546/6c917e75-25cc-4b24-bc0a-51b8601a00b8" width="300">
+  <img src="https://github.com/haiphan2000/EC214-Introduction-to-Supply-Chain-Management/assets/45815546/abe2edc6-9426-4796-a6b5-066a07b8d129" width="300">
+</p>
 
 **2. Zara**
 <p align="center">
@@ -42,10 +59,11 @@ The primary objective of these 2 case studies is to analyze the supply chain str
   <img src="https://github.com/haiphan2000/EC214-Introduction-to-Supply-Chain-Management/assets/45815546/f738e08b-8a8c-440c-ad2c-8eca75ff0672" width="300">
 </p>
 
-- **Supply Chain Analysis:**  a detailed examination of the processes, activities, and structure of supply chain - _Supply Chain Model_ emphasizing vertical integration strategies, _Core Activities_ implementated of the SCOR model, _Measuring Performance_.
+- **Supply Chain Analysis:**  a detailed examination of the processes, activities, and structure of supply chain - _Supply Chain Model_ emphasizing vertical integration strategies, _Core Activities_ implementated of the SCOR framework, _Measuring Performance_.
 <p align="center">
-  <img src="https://github.com/haiphan2000/EC214-Introduction-to-Supply-Chain-Management/assets/45815546/3db96853-accf-47dd-a970-8ec5d22ae3b6" width="450">
-  <img src="https://github.com/haiphan2000/EC214-Introduction-to-Supply-Chain-Management/assets/45815546/f61e4533-b35e-43bf-aa9c-f07e8ef5ee16" width="450">
+  <img src="https://github.com/haiphan2000/EC214-Introduction-to-Supply-Chain-Management/assets/45815546/3db96853-accf-47dd-a970-8ec5d22ae3b6" width="300">
+  <img src="https://github.com/haiphan2000/EC214-Introduction-to-Supply-Chain-Management/assets/45815546/f61e4533-b35e-43bf-aa9c-f07e8ef5ee16" width="300">
+  <img src="https://github.com/haiphan2000/EC214-Introduction-to-Supply-Chain-Management/assets/45815546/150e1af0-a13d-42bc-a62d-8ee35b7269cd" width="300">
 </p>
 
 - **Conclusion:** Zara's supply chain is `highly responsive` and `super-efficient`.
