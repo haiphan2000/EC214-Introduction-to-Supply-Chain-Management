@@ -10,12 +10,16 @@ The primary objective of these 2 case studies is to analyze the supply chain str
 - **Data and Visualizations:** Explore datasets and visualizations related to the supply chain performance metrics of **Trung Nguyen** and **Zara**. These resources enhance the quantitative aspect of the analysis.
 
 **1. Trung Nguyen**
-![image](https://github.com/haiphan2000/EC214-Introduction-to-Supply-Chain-Management/assets/45815546/9aaf17d7-d5c0-4620-a354-ecdaa9cd3a65)
+<p align="center">
+  <img src="https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Trung-Nguyen.png" width="200" alt="Description of the image">
+</p>
 
 - 
 
 **2. Zara**
-![image](https://github.com/haiphan2000/EC214-Introduction-to-Supply-Chain-Management/assets/45815546/8541e8b2-b9fd-4c3a-af07-9f87e774eb3f)
+<p align="center">
+  <img src="https://logomakerr.ai/blog/wp-content/uploads/2022/08/2019-to-Present-Zara-logo-design-1024x538.jpg" width="200" alt="Description of the image">
+</p>
 
 - **Introduction to the Business:** summarize the _history_, _visionary_ approach, _mission_, diverse _product line_, efficient _distribution channels_, and _business + revenue model_ — all of which collectively contribute to its unique business model of fast-fashion industry.
 - **Current State Assessment:** provide a comprehensive understanding of its current standing - _Market Analysis_ (gender, age, geography), _Competitor Analysis_ (H&M, Uniqlo, Zara) and _SWOT Analysis_.
