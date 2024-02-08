@@ -9,7 +9,7 @@ The primary objective of these 2 case studies is to analyze the supply chain str
 - **Presentation Slides:** Access presentation slides that accompany the case study, providing an overview of key findings and facilitating discussions in the classroom setting.
 - **Data and Visualizations:** Explore datasets and visualizations related to the supply chain performance metrics of **Trung Nguyen** and **Zara**. These resources enhance the quantitative aspect of the analysis.
 
-**1. Trung Nguyen**
+**1. TRUNG NGUYEN**
 <p align="center">
   <img src="https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Trung-Nguyen.png" width="150" alt="Description of the image">
 </p>
@@ -34,7 +34,7 @@ The primary objective of these 2 case studies is to analyze the supply chain str
   <img src="https://github.com/haiphan2000/EC214-Introduction-to-Supply-Chain-Management/assets/45815546/abe2edc6-9426-4796-a6b5-066a07b8d129" width="300">
 </p>
 
-**2. Zara**
+**2. ZARA**
 <p align="center">
   <img src="https://logomakerr.ai/blog/wp-content/uploads/2022/08/2019-to-Present-Zara-logo-design-1024x538.jpg" width="250" alt="Description of the image">
 </p>
